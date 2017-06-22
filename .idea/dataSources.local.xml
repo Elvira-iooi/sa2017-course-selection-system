@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="jdbc:hsqldb:file:/Users/luping/Desktop/todo/sa2017-course-selection-system/target/maven/maven-archiver maven-status/" uuid="ae247117-6c24-470b-8c31-aa25c37f8326">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+    </data-source>
+  </component>
+</project>
